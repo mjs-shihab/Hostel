@@ -1,3 +1,2 @@
 # Hostel
-it's hostel website
- https://mjs-shihab.github.io/Hostel/
+ https://mjs-shihab.github.io/saihostel/
